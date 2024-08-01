@@ -10,7 +10,6 @@ Un encriptador de texto es una herramienta que toma un mensaje de texto y lo tra
 
 ## Introduccion: 
 
-<br/><br/>
 En el marco del programa de formación de Alura Latam, se nos asignó la tarea de desarrollar un encriptador de texto utilizando HTML, CSS y JavaScript. Este proyecto tiene como objetivo principal aplicar y consolidar nuestros conocimientos en logica de programacion y usando Javascript, mientras construimos una herramienta funcional que permite encriptar y desencriptar mensajes de texto de manera sencilla. La encriptación de textos es una técnica esencial en el mundo de la informática para asegurar la privacidad y la seguridad de la información. A través de este proyecto, los estudiantes no solo aprenderán a implementar estas técnicas, sino que también comprenderán su importancia y aplicabilidad en el mundo real.
 
 <br/><br/>
@@ -22,6 +21,7 @@ En el marco del programa de formación de Alura Latam, se nos asignó la tarea d
 - Interfaz de usuario sencilla y amigable.
 - Funcionalidad para copiar el texto encriptado al portapapeles.
 - Diseño responsivo.
+<br/><br/>
 
 ## Tecnologías Utilizadas :
 
