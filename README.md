@@ -1,7 +1,8 @@
 
 <div align="center">
 
-# encriptador de texto
+# Encriptador de texto
+</div>
 
 Un encriptador de texto es una herramienta que toma un mensaje de texto y lo transforma en un formato ilegible mediante el uso de algoritmos de cifrado. El objetivo principal de un encriptador de texto es proteger la información sensible y asegurar que solo las personas autorizadas puedan acceder y entender el contenido original. La encriptación es ampliamente utilizada para proteger datos en aplicaciones de mensajería, transacciones bancarias, y cualquier tipo de comunicación digital donde la seguridad es una prioridad.
 
@@ -24,7 +25,7 @@ En el marco del programa de formación de Alura Latam, se nos asignó la tarea d
 
 ## Tecnologías Utilizadas :
 
-- <img src= https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg  alt="html" width="60" height="60"/> : Estructura del contenido.
+- <img src= https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg  alt="html" width="30" height="30"/> : Estructura del contenido.
 - **CSS**: Estilos y diseño responsivo.
 - **JavaScript**: Lógica de encriptación y desencriptación.
 
