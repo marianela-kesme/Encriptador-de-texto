@@ -56,3 +56,4 @@ Finalmente, se integraron todas las partes y se realizaron pruebas para asegurar
 Se ajustaron detalles visuales y se optimizó el código para mejorar el rendimiento y la usabilidad.
 Este proyecto no solo nos  permitió aplicar conocimientos teóricos en un contexto práctico, sino que también nos preparó para abordar desafíos reales en el campo del desarrollo web y la seguridad de la información.
 
+<img src= https://github.com/marianela-kesme/Encriptador-de-texto/blob/main/img-encriptador-texto.png />
