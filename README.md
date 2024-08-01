@@ -21,7 +21,6 @@ En el marco del programa de formación de Alura Latam, se nos asignó la tarea d
 - Interfaz de usuario sencilla y amigable.
 - Funcionalidad para copiar el texto encriptado al portapapeles.
 - Diseño responsivo.
-<br/>
 
 ## Tecnologías Utilizadas :
 
