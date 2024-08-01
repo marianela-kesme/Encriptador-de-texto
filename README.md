@@ -26,6 +26,7 @@ En el marco del programa de formación de Alura Latam, se nos asignó la tarea d
 ## Tecnologías Utilizadas :
 
 - <img src= https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg  alt="html" width="30" height="30"/> : Estructura del contenido.
-- **CSS**: Estilos y diseño responsivo.
-- **JavaScript**: Lógica de encriptación y desencriptación.
+- <img src= https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg alt="css" width="30" height="30"/> : Estilos y diseño responsivo.
+- <img src= https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg  alt=js width="30" height="30"/> : Lógica de encriptación y desencriptación.
+- <img src= https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg alt=vsc width="30" height="30"/> : El IDE usado en el proyecto para escribir el codigo.
 
