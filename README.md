@@ -24,7 +24,7 @@ En el marco del programa de formación de Alura Latam, se nos asignó la tarea d
 
 ## Tecnologías Utilizadas :
 
-- <img src= https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg> : Estructura del contenido.
+- <img src= https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg  alt="html" width="60" height="60"/> : Estructura del contenido.
 - **CSS**: Estilos y diseño responsivo.
 - **JavaScript**: Lógica de encriptación y desencriptación.
 
