@@ -22,16 +22,13 @@ En el marco del programa de formación de Alura Latam, se nos asignó la tarea d
 - Funcionalidad para copiar el texto encriptado al portapapeles.
 - Diseño responsivo.
 <br/>
-
 ## Tecnologías Utilizadas :
-
 - <img src= https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg  alt="html" width="30" height="30"/> : Estructura del contenido.
 - <img src= https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg alt="css" width="30" height="30"/> : Estilos y diseño responsivo.
 - <img src= https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg  alt=js width="30" height="30"/> : Lógica de encriptación y desencriptación.
 - <img src= https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg alt=vsc width="30" height="30"/> : El IDE usado en el proyecto para escribir el codigo.
 
 <br/>
-
 ## Construcción del Encriptador de Texto: 
 
 El desarrollo del encriptador de texto se realizó en varias etapas, cada una centrada en diferentes aspectos del desarrollo web frontend:
