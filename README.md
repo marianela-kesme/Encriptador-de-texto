@@ -36,23 +36,23 @@ En el marco del programa de formación de Alura Latam, se nos asignó la tarea d
 
 El desarrollo del encriptador de texto se realizó en varias etapas, cada una centrada en diferentes aspectos del desarrollo web frontend:
 
-# Estructura HTML:
+### Estructura HTML:
 
 Se comenzó por diseñar la estructura básica de la página web utilizando HTML. Esto incluyó la creación de los elementos principales como el campo de entrada de texto, los botones para encriptar y desencriptar, y un área para mostrar el resultado.
 
-# Estilos CSS:
+### Estilos CSS:
 
 Una vez definida la estructura, se aplicaron estilos CSS para darle una apariencia atractiva y profesional a la página. Se utilizaron técnicas de diseño responsivo para asegurar que la herramienta fuera accesible desde diferentes dispositivos y tamaños de pantalla.
 Se añadieron efectos de hover a los botones para mejorar la experiencia del usuario.
 
-# Funcionalidad JavaScript:
+### Funcionalidad JavaScript:
 
 El núcleo del proyecto se desarrolló en JavaScript, donde se implementaron las funciones para encriptar y desencriptar el texto.
 Se definieron los algoritmos de cifrado, que en este caso podrían ser sencillos como el cifrado por sustitución, donde cada letra del mensaje original se reemplaza por otra siguiendo una lógica específica.
 
 Se añadió la funcionalidad para copiar el texto encriptado al portapapeles con un botón específico.
 
-# Integración y Pruebas:
+### Integración y Pruebas:
 
 Finalmente, se integraron todas las partes y se realizaron pruebas para asegurarse de que la herramienta funcionara correctamente.
 Se ajustaron detalles visuales y se optimizó el código para mejorar el rendimiento y la usabilidad.
